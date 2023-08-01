@@ -10,7 +10,7 @@ export default siteConfig({
 
   // basic site info (required)
   name: 'This is Vesper',
-  domain: 'https://timetocurie.notion.site/25b8cbbf48db4e7a92aeb56b365dde1b',
+  domain: 'https://www.notion.so/timetocurie/25b8cbbf48db4e7a92aeb56b365dde1b',
   author: 'Vesper Ju',
 
   // open graph metadata (optional)
@@ -19,7 +19,7 @@ export default siteConfig({
   // social usernames (optional)
   twitter: 'transitive_bs',
   github: 'transitive-bullshit',
-  linkedin: 'fisch2',
+  linkedin: 'Yina Ju',
   // mastodon: '#', // optional mastodon profile URL, provides link verification
   // newsletter: '#', // optional newsletter URL
   // youtube: '#', // optional youtube channel name or `channel/UCGbXXXXXXXXXXXXXXXXXXXXXX`
